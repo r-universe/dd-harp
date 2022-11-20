@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "exDE"]
+	path = exDE
+	url = https://github.com/dd-harp/exde
+	shallow = true
+	registered = true
 [submodule "MicroMoB"]
 	path = MicroMoB
 	url = https://github.com/dd-harp/micromob

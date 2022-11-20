@@ -1,5 +1,9 @@
 [
   {
+    "package": "exDE",
+    "oncran": true
+  },
+  {
     "package": "MicroMoB",
     "oncran": true
   }
