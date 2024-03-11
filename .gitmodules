@@ -5,6 +5,3 @@
 [submodule "MicroMoB"]
 	path = MicroMoB
 	url = https://github.com/dd-harp/micromob
-[submodule "exDE"]
-	path = exDE
-	url = https://github.com/dd-harp/exde
