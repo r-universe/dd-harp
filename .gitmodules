@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "MicroMoB"]
 	path = MicroMoB
-	url = https://github.com/dd-harp/micromob
+	url = https://github.com/dd-harp/ramp.dts
